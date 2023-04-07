@@ -1,2 +1,2 @@
 # Oscillation-and-waves
-SHM and wave interference
+This module contains python snippets for oscillatory motion and waves interference.
